@@ -1,1 +1,48 @@
+1	Introduction
+This deliverable contains the report from Discovery TF of W3C WoT IG.
+1.1	Document Purpose
+The document reports several aspects – (i) a definition of discovery from WoT point of view, (ii) what do we intend to discover (things or service or description), (iii) discovery mechanisms (local, remote, P2P) and (iv) activities in other SDOs like oneM2M.
+1.2	Scope
+This deliverable is provided within the scope of W3C WoT IG.
+1.3	Intended Audience
+It is targeted to researchers, engineers, industry experts and SDOs.
+1.4	Contents
+The structure of the deliverable is described as follows:
+•	Section 2 
+•	Section 3 
+•	Section 4 
+•	Section 5
+•	Section 6
+•	Section 7 
+•	Section 8 
+•	Sections 9 and 10 
+
+2	Discovery in WoT
+Provide a general description 
+•	What is discovery – we should agree on a common description
+•	What do we intend to discover – is it a thing, a service, a WoT server or thing description
+•	Technology landscape – which ones are necessary
+•	Requirements and challenges
+2.1	Definition
+
+3	Discovery mechanisms
+This section describes the mechanisms for discovery – local, remote and P2P. Each of them should be further illustrated by examples / use cases.
+
+3.1	Local
+
+3.2	Remote
+
+3.3	P2P
+4	Activities in Current Standards
+This section identifies current initiatives in SDOs like oneM2M and report the ongoing activities. 
+
+4.1	Discovery in oneM2M
+5	WoT Framework
+This section should provide a high-level overview of how discovery components will be integrated into an overall WoT framework.
+
+
+6	Conclusion
+
+
+7 References
 
